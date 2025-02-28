@@ -44,3 +44,6 @@ This project explores the key factors influencing job satisfaction, focusing on 
 - Focus on work-life balance initiatives to improve employee retention.
 - Provide structured career growth opportunities to address mid-career satisfaction dips.
 - Use data-driven insights to enhance employee well-being programs.
+
+📄 [Project Report](./Job%20Satisafaction%20Analysis%20Project%20Report.pdf)
+
