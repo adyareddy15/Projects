@@ -1,5 +1,5 @@
 # Job Satisfaction Analysis
-**Project Overview**
+**Project Overview:**
 This project explores the key factors influencing job satisfaction, focusing on work-life balance, work environment, and employee well-being. Using machine learning models and data visualization, we analyze how different demographic and workplace variables impact job satisfaction and provide actionable insights to enhance employee retention.
 
 **Key Objectives**
